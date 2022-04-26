@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kevinkings23
+- 👋 Hi, I’m Kevin lol :D
 - 👀 I’m interested in Game Development, Website Deveopment and contributing to other people
 - 🌱 I’m currently learning C#, HTML 5, CSS 3, JavaScript, Python, and other frameworks/fundemantel coding languages
 - ❤️ I’m looking to collaborate on any project :)
